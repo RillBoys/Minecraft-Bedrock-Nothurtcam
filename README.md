@@ -37,7 +37,3 @@ Kontribusi sangat diterima! Jika kamu memiliki ide untuk peningkatan lebih lanju
 
 ## Kontak
 Untuk pertanyaan atau masukan, silakan gunakan halaman Issues di GitHub.
-
----
-
-Capai pengalaman bermain Minecraft yang lebih stabil dan menyenangkan dengan tweaks kamera kami, yang mengurangi dampak damage pada permainanmu!
