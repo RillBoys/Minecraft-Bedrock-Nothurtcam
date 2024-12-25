@@ -1,7 +1,7 @@
 # Camera Nothurtcam Minecraft Bedrock
 
 ## Overview
-Repositori ini menyediakan Nothurtcam untuk Minecraft Bedrock Edition (versi 1.21+ dan yang lebih baru) yang dirancang untuk meniru mod "nothurtcam" seperti pada mod populer di Minecraft Java Edition. ini fokus pada pengurangan atau penghilangan guncangan camera yang terjadi saat pemain menerima damage saat pvp, dengan modifikasi ini memberikan pengalaman bermain pvp cpvp skywar combat yang lebih baik.
+Repositori ini menyediakan Nothurtcam untuk Minecraft Bedrock Edition (versi 1.21.5X + dan yang lebih baru) yang dirancang untuk meniru mod "nothurtcam" seperti pada mod populer di Minecraft Java Edition. ini fokus pada pengurangan atau penghilangan guncangan camera yang terjadi saat pemain menerima damage saat pvp, dengan modifikasi ini memberikan pengalaman bermain pvp cpvp skywar combat yang lebih baik.
 
 ## Fitur
 - **Nothurtcam**: Secara signifikan mengurangi atau menghilangkan guncangan camera saat pemain menerima damage, meniru fungsi mod Java Edition.
